@@ -1,0 +1,35 @@
+Phần kết quả chương trình từ lab 3 sẽ lấy dạng ảnh
+
+Nhận xét và cho điểm từng bài tập:
+- Bài 1: đúng
+Điểm bài tập: 1.0 
+
+- Bài 2: sử dụng try...except, sử dụng chuỗi, kiến thức vượt ngoài kiến thức lab 1, lab 2
+Điểm bài tập: 0.5
+
+- Bài 3: sử dụng function, sử dụng try...except, kiến thức vượt ngoài kiến thức lab 1, lab 2
+Điểm bài tập: 0.5
+
+- Bài 4: đúng
+Điểm bài tập: 1.0 
+
+- Bài 5: đúng
+Điểm bài tập: 1.0 
+
+- Bài 6: sử dụng try...except, kiến thức vượt ngoài kiến thức lab 1, lab 2
+Điểm bài tập: 0.5
+
+- Bài 7: đúng
+Điểm bài tập: 1.0 
+
+- Bài 8: sử dụng function, kiến thức vượt ngoài kiến thúc lab 1, lab 2
+Điểm bài tập: 0.5
+
+- Bài 9: đúng
+Điểm bài tập: 1.0 
+
+- Bài 10: sử dụng function, kiến thức vượt ngoài kiến thúc lab 1, lab 2
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 2: 7.5 - 2 điểm (nộp bài muộn) = 5.5
+
