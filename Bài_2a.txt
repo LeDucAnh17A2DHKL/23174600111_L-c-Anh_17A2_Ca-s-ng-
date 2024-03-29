@@ -1,0 +1,1 @@
+Tổng các số chia hết cho 7 nhưng không chia hết cho 5 trong khoảng từ 2000 đến 4000 là: 686287

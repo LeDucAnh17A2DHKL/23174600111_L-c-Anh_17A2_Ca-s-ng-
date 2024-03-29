@@ -1,0 +1,1 @@
+Tổng các số chia hết cho 4 nhưng không chia hết cho 6 trong khoảng từ 500 đến 1000 là: 63000
