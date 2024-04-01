@@ -1,29 +1,14 @@
-while True:
-    try:
-        # Nhập một số nguyên dương
-        n = int(input("Nhập một số nguyên dương n: "))
-        
-        if n > 0:
-            # Tính S1
-            S1 = sum(range(1, n+1))
-            
-            # Tính S2
-            S2 = sum(1/i for i in range(1, n+1))
-            
-            # Tính S3
-            S3 = sum(1/(i**0.5) for i in range(2, 2*n+1, 2))
-            
-            # Tính S4
-            S4 = sum(((-1)**i+1)/i for i in range(1, n+1))
+# Nhập hệ số a và b
+a = float(input("Nhập hệ số a: "))
+b = float(input("Nhập hệ số b: "))
 
-            print(f"Số nguyên dương bạn đã nhập là {n}")
-            print(f"S1 = {S1}")
-            print(f"S2 = {S2}")
-            print(f"S3 = {S3}")
-            print(f"S4 = {S4}")
-
-        else:
-          print("Vui lòng nhập lại số nguyên dương.")
-          
-    except ValueError:
-        print("Vui lòng nhập một số nguyên.")
+# Kiểm tra nếu cả hai hệ số đều bằng không
+if a == 0 and b == 0:
+    print("Phương trình có vô số nghiệm.")
+# Kiểm tra nếu hệ số a bằng không
+elif a == 0:
+    print("Phương trình vô nghiệm.")
+else:
+    # Tính nghiệm của phương trình bậc nhất ax + b = 0
+    x = -b / a
+    print(f"Nghiệm của phương trình là x = {x}")
