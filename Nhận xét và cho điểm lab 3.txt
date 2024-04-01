@@ -1,0 +1,21 @@
+- Bài 1: sử dụng vòng lặp while, kiến thức vượt ngoài kiến thức lab 1, 2, 3
+Điểm bài tập: 1.0
+
+- Bài 2: 2 ý đều đúng
+Điểm bài tập: 2.0
+
+- Bài 3:
+a) đúng
+b) sử dụng function, kiến thức vượt ngoài kiến thức lab 1, 2, 3
+c) sử dụng vòng lặp while, kiến thức vượt ngoài kiến thức lab 1, 2, 3
+d) sử dụng function, kiến thức vượt ngoài kiến thức lab 1, 2, 3
+e) thiếu
+Điểm bài tập: 2.5
+
+- Bài 4:
+a) sử dụng function, kiến thức vượt ngoài kiến thức lab 1, 2, 3
+b) đúng
+Điểm bài tập: 0.5
+
+
+Tổng điểm bài tập lab 3: 6 - 2 (nộp muộn + thiếu ảnh kết quả) = 4.0
