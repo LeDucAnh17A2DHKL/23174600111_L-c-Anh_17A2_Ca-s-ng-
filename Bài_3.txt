@@ -1,0 +1,2 @@
+Nhập vào một số nguyên dương: 72364
+Số chữ số của số nguyên đó là: 5
