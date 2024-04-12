@@ -1,5 +1,2 @@
-Với n = 69, các tổng là:
-S1: 42
-S2: 1.7594460481296408
-S3: -66
-S4: 68.0
+Chuỗi sau khi loại bỏ các ký tự không phải số nguyên tố: 2357
+Chuỗi kết quả là một số nguyên tố.

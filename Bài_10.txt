@@ -1,0 +1,2 @@
+Nhập chuỗi: khi
+Chuỗi sau khi xóa khoảng trắng: khi

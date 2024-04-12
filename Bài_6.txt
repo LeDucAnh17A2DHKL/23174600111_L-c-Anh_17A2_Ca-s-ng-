@@ -1,2 +1,3 @@
-Nhập một số: 45
-Forty Five
+Nhập chuỗi: chị ong nâu nâu    
+Ký tự đặc biệt và tỷ lệ phần trăm:
+' ': 4 lần, chiếm 25.00%

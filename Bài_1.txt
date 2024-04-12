@@ -1,3 +1,2 @@
-a) Các số lẻ đã nhập: [445]
-b) Các số chẵn đã nhập: [999, 637, 100, 200, 300, 400]
-c) Đã nhập 7 số nguyên.
+Nhập một số nguyên dương: 7
+111

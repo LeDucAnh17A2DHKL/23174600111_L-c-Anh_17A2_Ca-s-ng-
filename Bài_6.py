@@ -1,27 +1,23 @@
-def số_thành_từ (n):
-    num2words1 = {1: 'One', 2: 'Two', 3: 'Three', 4: 'Four', 5: 'Five',
-                  6: 'Six', 7: 'Seven', 8: 'Eight', 9: 'Nine'}
-    num2words2 = ['Eleven', 'Twelve', 'Thirteen', 'Fourteen', 'Fifteen',
-                  'Sixteen', 'Seventeen', 'Eighteen', 'Nineteen']
-    num2words3 = ['Ten', 'Twenty', 'Thirty', 'Forty', 'Fifty',
-                  "Sixty", 'Seventy', 'Eighty', 'Ninety']
+def special_char_percentage():
+    # Nhập chuỗi từ bàn phím
+    s = input("Nhập chuỗi: ")
 
-    if n > 0:
-        if n < 10:
-            return num2words1[n]
-        elif n <= 99:
-            tens, below_ten = divmod(n, 10)
-            if below_ten == 0:
-                return num2words3[tens - 1]
-            elif 10 < n < 20:
-                return num2words2[below_ten - 1]
-            else:
-                return f'{num2words3[tens - 1]} {num2words1[below_ten]}'
-    else:
-        return "The number is not positive"
+    # Khởi tạo từ điển để lưu trữ ký tự đặc biệt và số lần xuất hiện
+    special_chars = {}
 
-try:
-    n = int(input("Nhập một số: "))
-    print(số_thành_từ(n))
-except ValueError:
-    print("Đầu vào không hợp lệ. Vui lòng nhập một số nguyên dương hợp lệ.")
+    for char in s:
+        # Kiểm tra xem ký tự có phải là ký tự đặc biệt không
+        if not char.isalnum():
+            # Nếu có, tăng số lần xuất hiện của ký tự đặc biệt
+            special_chars[char] = special_chars.get(char, 0) + 1
+
+    total_chars = len(s)
+    print("Ký tự đặc biệt và tỷ lệ phần trăm:")
+
+    for char, count in special_chars.items():
+        # Tính tỷ lệ phần trăm của mỗi ký tự đặc biệt
+        percentage = (count / total_chars) * 100
+        print(f"'{char}': {count} lần, chiếm {percentage:.2f}%")
+
+# Gọi hàm
+special_char_percentage()
