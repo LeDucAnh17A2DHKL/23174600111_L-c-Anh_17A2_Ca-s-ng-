@@ -1,0 +1,31 @@
+- Bài 1: đúng
+Điểm bài tập: 1.0 
+
+- Bài 2: sử dụng function và list, kiến thức ngoài kiến thức đã học ở các lab. Sai yêu cầu đề bài
+Điểm bài tập: 0 
+
+- Bài 3: sử dụng package collections. Khi sử dụng module counter sẽ trả về một từ điển đếm, trong đó khóa (key) là các phần tử trong tập hợp và giá trị (value) là số lần xuất hiện tương ứng của từng phần tử. Kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+- Bài 4: sử dụng function, kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+- Bài 5: sử dụng function, kiến thức ngoài kiến thức đã học ở các lab. Sai yêu cầu đề bài. Kết quả là HW-eo-lr-ll-od?
+Điểm bài tập: 0
+
+- Bài 6: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+- Bài 7: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+- Bài 8: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+- Bài 9: sử dụng kiến thức ngoài kiến thức đã học ở các lab. Sai yêu cầu đề bài
+Điểm bài tập: 0
+
+- Bài 10: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 5: 4.0 - 1.0 (không có ảnh kết quả) - 1.0 (nộp muộn) = 2.0
