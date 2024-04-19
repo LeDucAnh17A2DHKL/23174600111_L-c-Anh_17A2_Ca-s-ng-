@@ -1,18 +1,24 @@
-def longest_common_substring(s1, s2):
-    matrix = [[0]*(1+len(s2)) for i in range(1+len(s1))]
-    longest, x_longest = 0, 0
-    for x in range(1, 1+len(s1)):
-        for y in range(1, 1+len(s2)):
-            if s1[x-1] == s2[y-1]:
-                matrix[x][y] = matrix[x-1][y-1] + 1
-                if matrix[x][y]>longest:
-                    longest = matrix[x][y]
-                    x_longest  = x
-            else:
-                matrix[x][y] = 0
-    return s1[x_longest-longest: x_longest]
+def chuoi_con_chung_ngan_nhat(chuoi1, chuoi2):
+    # Khởi tạo chuỗi con chung ngắn nhất là None
+    chuoi_con_chung_ngan_nhat = None
 
-# Test the function with sample strings
-s1 = "Hello, how are you?"
-s2 = "Hello, how have you been?"
-print(longest_common_substring(s1, s2))
+    # Duyệt qua tất cả các chuỗi con của chuoi1
+    for i in range(len(chuoi1)):
+        for j in range(i + 1, len(chuoi1) + 1):
+            # Lấy chuỗi con hiện tại
+            chuoi_con = chuoi1[i:j]
+
+            # Kiểm tra xem chuỗi con có trong chuoi2 không
+            if chuoi_con in chuoi2:
+                # Nếu đây là chuỗi con chung đầu tiên hoặc nó ngắn hơn chuỗi ngắn nhất hiện tại
+                if chuoi_con_chung_ngan_nhat is None or len(chuoi_con) < len(chuoi_con_chung_ngan_nhat):
+                    # Cập nhật chuỗi con chung ngắn nhất
+                    chuoi_con_chung_ngan_nhat = chuoi_con
+
+    # Trả về chuỗi con chung ngắn nhất
+    return chuoi_con_chung_ngan_nhat
+
+# Thử nghiệm chương trình
+chuoi1 = "X"
+chuoi2 = "thế giới, in chào!"
+print(chuoi_con_chung_ngan_nhat(chuoi1, chuoi2))
