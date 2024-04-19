@@ -1,0 +1,13 @@
+Nhập vào một số nguyên dương: 324
+Nhập vào một số nguyên dương: 23
+Nhập vào một số nguyên dương: 99
+Nhập vào một số nguyên dương: 3223
+
+Các số lẻ đã nhập là:
+23
+99
+3223
+
+Các số chẵn đã nhập là:
+324
+Tổng số lượng số nguyên đã nhập là:  4

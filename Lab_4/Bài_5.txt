@@ -1,0 +1,11 @@
+Nhập vào số thứ nhất: 5
+Nhập vào số thứ hai: 76
+Kết quả cộng: 81.0
+Kết quả trừ: -71.0
+Kết quả nhân: 380.0
+Kết quả chia: 0.06578947368421052
+Nhập số mũ: 7
+Kết quả lũy thừa: 78125.0
+Nhập số cần tính căn bậc hai: 9
+Kết quả tính căn bậc hai: 3.0
+Bạn có muốn tiếp tục không (yes/no)? no

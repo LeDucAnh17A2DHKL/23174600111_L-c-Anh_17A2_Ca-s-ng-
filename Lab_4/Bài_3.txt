@@ -1,0 +1,4 @@
+Nhập một số nguyên: 7,8
+Lỗi: Vui lòng nhập một số nguyên hợp lệ.
+Nhập một số nguyên: 13
+Số chữ số của số nguyên 13 là 2.

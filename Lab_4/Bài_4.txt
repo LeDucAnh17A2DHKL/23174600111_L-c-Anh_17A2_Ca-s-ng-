@@ -1,0 +1,5 @@
+Nhập vào từ bàn phím số nguyên n (n > 10): 12
+S1 = 72
+S2 = 364
+S3 = 78
+S4 = 2930
