@@ -1,0 +1,8 @@
+Nhập số lượng phần tử: 4
+Nhập phần tử thứ 1: 1
+Nhập phần tử thứ 2: 5
+Nhập phần tử thứ 3: 32
+Nhập phần tử thứ 4: 7
+
+Tổng các số chẵn: 32
+Tổng các số lẻ: 13

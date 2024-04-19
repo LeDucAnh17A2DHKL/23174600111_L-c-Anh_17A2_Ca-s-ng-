@@ -1,0 +1,6 @@
+Nhập vào một số (hoặc nhập 'done' để kết thúc): 532643
+Nhập vào một số (hoặc nhập 'done' để kết thúc): 1
+Nhập vào một số (hoặc nhập 'done' để kết thúc): 2
+Nhập vào một số (hoặc nhập 'done' để kết thúc): done
+Số nhỏ nhất trong dãy số là 1.0.
+Số lớn nhất trong dãy số là 532643.0.

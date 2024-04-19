@@ -1,0 +1,10 @@
+Nhập vào số phần tử trong mảng: 4
+Nhập phần tử thứ 1: 6
+Nhập phần tử thứ 2: 28
+Nhập phần tử thứ 3: 2
+Nhập phần tử thứ 4: 4
+Các số nguyên tố trong mảng là:
+2
+Các số hoàn hảo trong mảng là:
+6
+28

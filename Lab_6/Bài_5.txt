@@ -1,0 +1,8 @@
+Nhập vào một số nguyên (hoặc nhập 'done' để kết thúc): 3
+Nhập vào một số nguyên (hoặc nhập 'done' để kết thúc): 5
+Nhập vào một số nguyên (hoặc nhập 'done' để kết thúc): 7
+Nhập vào một số nguyên (hoặc nhập 'done' để kết thúc): 9
+Nhập vào một số nguyên (hoặc nhập 'done' để kết thúc): 11
+Nhập vào một số nguyên (hoặc nhập 'done' để kết thúc): done
+Dãy số này tạo thành cấp số cộng.
+Dãy số: [3, 5, 7, 9, 11]
