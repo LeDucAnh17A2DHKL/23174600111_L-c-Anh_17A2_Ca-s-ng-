@@ -1,0 +1,3 @@
+Nhập chuỗi thứ nhất: t
+Nhập chuỗi thứ hai: d
+True

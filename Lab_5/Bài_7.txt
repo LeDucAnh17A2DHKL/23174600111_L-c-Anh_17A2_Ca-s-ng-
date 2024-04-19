@@ -1,0 +1,5 @@
+Nhập chuỗi: chú ếch con
+Chữ cái viết thường: 9
+Chữ cái viết hoa: 0
+Chữ số: 0
+Ký tự đặc biệt: 2

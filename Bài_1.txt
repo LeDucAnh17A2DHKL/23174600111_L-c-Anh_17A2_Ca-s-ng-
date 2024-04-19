@@ -1,2 +1,0 @@
-Nhập một số nguyên dương: 7
-111

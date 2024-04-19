@@ -1,0 +1,4 @@
+Nhập một chuỗi: bà tám 
+Nhập từ cần tìm: tám 
+Từ 'tám' xuất hiện ở vị trí 3 trong chuỗi.
+Từ xuất hiện nhiều nhất trong chuỗi là 'bà', xuất hiện 1 lần.

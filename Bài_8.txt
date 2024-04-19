@@ -1,7 +1,0 @@
-Nhập chuỗi: chú voi con
-a) Chuỗi từ vị trí thứ 2 đến vị trí thứ 8: hú voi
-b) Chuỗi 5 ký tự cuối cùng: i con
-c) Chuỗi 3 ký tự cuối cùng: con
-d) Chuỗi sau khi chuyển tất cả chữ cái thành chữ hoa: CHÚ VOI CON
-e) Chuỗi sau khi chuyển tất cả chữ cái thành chữ thường: chú voi con
-f) Chuỗi sau khi đảo ngược: noc iov úhc

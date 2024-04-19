@@ -1,0 +1,2 @@
+Chuỗi sau khi loại bỏ các ký tự không phải số nguyên tố: 2357
+Chuỗi kết quả là một số nguyên tố.
