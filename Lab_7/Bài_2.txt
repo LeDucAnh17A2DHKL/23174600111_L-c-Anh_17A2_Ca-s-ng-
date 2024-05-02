@@ -1,0 +1,26 @@
+Nhập tên sinh viên: lê đức anh 6
+Nhập điểm thi của sinh viên: 6
+Nhập tên sinh viên: phạm nhật bình 
+Nhập điểm thi của sinh viên: 8
+Nhập tên sinh viên: nguyễn văn b
+Nhập điểm thi của sinh viên: 1
+Nhập tên sinh viên: cao minh ngọc 
+Nhập điểm thi của sinh viên: 5
+Nhập tên sinh viên: a
+Nhập điểm thi của sinh viên: 5
+Nhập tên sinh viên: b
+Nhập điểm thi của sinh viên: 5
+Nhập tên sinh viên: h
+Nhập điểm thi của sinh viên: 2
+Nhập tên sinh viên: t
+Nhập điểm thi của sinh viên: 7
+Nhập tên sinh viên: j
+Nhập điểm thi của sinh viên: 8
+Nhập tên sinh viên: q
+Nhập điểm thi của sinh viên: 0
+Mức độ học lực:
+A: 0 sinh viên
+B: 3 sinh viên
+C: 1 sinh viên
+D: 3 sinh viên
+F: 3 sinh viên
